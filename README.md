@@ -1,6 +1,9 @@
 # Tuto-VueJS
 Personal tuto to learn VueJS. I do not claim to be a pro at VueJS at all, I'm only learning and writing what I think is good. :)
-
+I hope this can help people learning VueJS with absolutely no skills in frontend dev (like me).
+Here some links to some better tutos :
+- https://vuejs.org/tutorial/
+- https://v2.fr.vuejs.org/v2/guide/
 
 
 ## Intro
